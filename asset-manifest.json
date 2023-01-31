@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SRAISolutions-site/static/css/main.78294792.css",
+    "main.js": "/SRAISolutions-site/static/js/main.15e05890.js",
+    "index.html": "/SRAISolutions-site/index.html",
+    "main.78294792.css.map": "/SRAISolutions-site/static/css/main.78294792.css.map",
+    "main.15e05890.js.map": "/SRAISolutions-site/static/js/main.15e05890.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78294792.css",
+    "static/js/main.15e05890.js"
+  ]
+}
